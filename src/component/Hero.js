@@ -21,7 +21,7 @@ const Hero = () =>{
                         and transforming it into compelling stories <br/>
                         through the art of video editing.</p>
                     <div className="HeroButton">
-                    <button className="DownloadCV"><a href="https://drive.google.com/file/d/1M5BCnGhFdgpmQKxZtUGPrGBrBEC4vJXV/view?usp=sharing">DOWNLOAD CV</a></button>
+                    <button className="DownloadCV"><a href="https://drive.google.com/file/d/1M5BCnGhFdgpmQKxZtUGPrGBrBEC4vJXV/view?usp=share_link">DOWNLOAD CV</a></button>
                     </div>
                 </div>
                 <div className="HeroImage">
