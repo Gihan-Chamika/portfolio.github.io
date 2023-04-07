@@ -22,7 +22,7 @@ const Hero = () =>{
                         through the art of video editing.</p>
                     <div className="HeroButton">
                         {/* cv link= https://drive.google.com/file/d/1M5BCnGhFdgpmQKxZtUGPrGBrBEC4vJXV/view?usp=share_link */}
-                    <button className="DownloadCV"><a href="https://drive.google.com/file/d/173P7R455N33IUZe6bftAFbPo2CE5hB9v/view?usp=share_link">DOWNLOAD CV</a></button>
+                    <button className="DownloadCV"><a href="https://drive.google.com/file/d/1mdwIQe5Uxy5pHzxsk1StDsUXtcJM4iOe/view?usp=share_link">DOWNLOAD CV</a></button>
                     </div>
                 </div>
                 <div className="HeroImage">
